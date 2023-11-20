@@ -1,0 +1,37 @@
+body{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+    color: navy;
+}
+.news{
+    text-align: center;
+}
+.news ul li{
+    list-style-position: inside;
+}
+.b{
+    color: red;
+}
+.captain h1{
+    background-color: navy;
+    background-color: burlywood;
+    margin: 20px;
+    padding: 10px;
+}
+.captain img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.captain p{
+    padding-left: 20px;
+    font-size: larger;
+    
+}
+MARQUEE{
+    font-size: xx-large;
+    color: darkgreen;
+    font-weight: bolder;
+}
